@@ -1,10 +1,10 @@
 ## Olá pessoal 👋
 I am passionate about solving problems using programming.
 
-Becoming a web developer 💻
+I'm Full Stack in the web development at Bw2 Tecnologia 💻
 
   📚 &nbsp; I have fun while learning to program
- <br/> :purple_heart: &nbsp; Seeking to collaborate with Front-end projects.
+ <br/> :purple_heart: &nbsp; Seeking to collaborate projects.
  
 - Thanks for visiting. 
 
