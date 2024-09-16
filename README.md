@@ -4,7 +4,7 @@
 👩🏻‍💻 Software Engineer sharing about my journey and learnings in tech<br/>
 👩🏻‍🎓 Graduated in Software Engineering at the University Center - Catholic of Santa Catarina in Jaraguá do Sul<br/>
 📷 Making videos about Computer Science, tech, and productivity on [YouTube](https://www.youtube.com/@JenniferOenning)<br/>
-🌱 Currently learning about React and Node.js
+🌱 Currently learning about React and Node.js, visit my blog, i write some learnings there [Blog](https://jenniferoenning.github.io/)<br/>
 
 <!-- GitHub stats from https://github.com/anuraghazra/github-readme-stats -->
 <div style="display: flex;">
